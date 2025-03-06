@@ -15,12 +15,6 @@ manifest:
       remote: zmkfirmware
       revision: feat/pointers-move-scroll
       import: app/west.yml
-    - name: zmk-rgbled-widget
-      remote: caksoylar
-      revision: main
-    - name: zmk-tri-state
-      remote: dhruvinsh
-      revision: main
     - name: zmk-dongle-display
       remote: englmaxi
       revision: main
