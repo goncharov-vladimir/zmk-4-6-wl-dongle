@@ -4,8 +4,6 @@ manifest:
       url-base: https://github.com/petejohanson
     - name: badjeff
       url-base: https://github.com/badjeff
-    - name: mctechnology17
-      url-base: https://github.com/mctechnology17
     - name: englmaxi
       url-base: https://github.com/englmaxi
     # Additional modules containing boards/shields/custom code can be listed here as well
