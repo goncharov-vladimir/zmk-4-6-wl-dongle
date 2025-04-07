@@ -23,7 +23,7 @@
             bindings = <&bootloader>;
             key-positions = <0 13>;
         };
-        bootloade*rRight {
+        bootloaderRight {
             bindings = <&bootloader>;
             key-positions = <11 22>;
         };
